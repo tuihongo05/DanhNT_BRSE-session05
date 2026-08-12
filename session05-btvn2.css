@@ -1,0 +1,11 @@
+li {
+  background-color: darkgrey;
+  color: white;
+  width: 300px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+li:hover {
+  background-color: dimgray;
+}
